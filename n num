@@ -1,0 +1,17 @@
+#include<stdio.h>
+void main
+{
+    int i,num,sum=0;
+    printf("enter an integer");
+    scanf("%d",&num);
+    for(i=1;i<=num;i++)
+    {
+        sum=sum+i;
+    }
+printf("sum of first %d natural numbers=%d",num,sum");
+    
+out
+
+3
+enter an integer3                                                                                                              
+sum of first 3 natural numbers=6 
